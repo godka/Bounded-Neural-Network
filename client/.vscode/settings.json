@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "__locale": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp"
+    }
+}
