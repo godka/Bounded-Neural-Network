@@ -1,7 +1,8 @@
 # Bounded-Neural-Network
 Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network[NOSSDAV'18]
 
-cite this paper
+Cite this paper
+```
 @inproceedings{Huang:2018:DRC:3210445.3210446,
  author = {Huang, Tianchi and Zhang, Rui-Xiao and Zhou, Chao and Sun, Lifeng},
  title = {Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network},
@@ -19,3 +20,4 @@ cite this paper
  address = {New York, NY, USA},
  keywords = {Deep Learning, Delay-Constrained, Rate Control, Real-time Video Streaming},
 }
+```
